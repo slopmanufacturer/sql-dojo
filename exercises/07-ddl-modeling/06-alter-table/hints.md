@@ -1,2 +1,2 @@
-- `ALTER TABLE ... ADD COLUMN` appends a column; existing rows get NULL.
-- `UPDATE` changes rows in place; the `WHERE` clause decides which ones.
+- `ALTER TABLE ... ADD COLUMN` appends the column; existing rows get NULL.
+- `UPDATE ... WHERE score >= 9` changes only the rows you want.

@@ -1,2 +1,1 @@
--- Revenue by plan
--- Expected columns: name, paid_cents
+-- 04/10  Revenue by plan

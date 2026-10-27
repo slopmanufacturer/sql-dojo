@@ -1,2 +1,1 @@
--- Average revenue per customer
--- Expected columns: arpu_dollars
+-- 08/03  Average revenue per customer

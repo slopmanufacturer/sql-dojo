@@ -1,2 +1,2 @@
-- `CASE` is evaluated top to bottom; the first matching `WHEN` wins.
-- The `ELSE` branch catches everything the earlier branches did not.
+- `CASE` evaluates top to bottom; the first match wins.
+- `ELSE` catches everything the earlier branches did not.

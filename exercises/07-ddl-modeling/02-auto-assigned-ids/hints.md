@@ -1,2 +1,2 @@
-- Omit `id` from the `INSERT` column list and SQLite assigns it.
-- Do not use `AUTOINCREMENT` unless you need strictly increasing, never-reused ids.
+- Leave `id` out of the insert column list.
+- Skip `AUTOINCREMENT` unless ids must never be reused.

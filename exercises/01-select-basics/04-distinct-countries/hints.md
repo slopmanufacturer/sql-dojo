@@ -1,2 +1,2 @@
-- `DISTINCT` applies to the whole selected row, not a single column.
-- Without `ORDER BY` the order is unspecified; add it.
+- `DISTINCT` applies to the whole selected row, not one column.
+- Sort it, or SQLite is free to return the rows in any order.

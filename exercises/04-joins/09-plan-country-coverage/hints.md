@@ -1,2 +1,3 @@
-- `CROSS JOIN` produces every plan/country pair; the `LEFT JOIN` then attaches customers.
-- Count `cu.id`, not `*`, so empty pairs report zero.
+- `CROSS JOIN` makes the pairs; `LEFT JOIN` attaches the customers.
+- Count `cu.id` so empty pairs report zero.
+- A plan with no customers in a country still belongs in the grid.

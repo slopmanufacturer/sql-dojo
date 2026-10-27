@@ -1,2 +1,1 @@
--- Average invoice by status
--- Expected columns: status, avg_dollars
+-- 03/07  Average invoice by status

@@ -1,2 +1,1 @@
 - Average over per-customer totals, not over invoices.
-- A single-row result needs no `GROUP BY`.

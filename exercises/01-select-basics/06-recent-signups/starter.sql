@@ -1,2 +1,1 @@
--- Most recent signups
--- Expected columns: name, signup_at
+-- 01/06  Most recent signups

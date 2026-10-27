@@ -1,2 +1,1 @@
--- Plan tiers
--- Expected columns: name, monthly_price_cents, tier
+-- 02/08  Plan tiers

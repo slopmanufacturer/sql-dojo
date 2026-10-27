@@ -1,2 +1,1 @@
--- Revenue rank
--- Expected columns: name, cents, rank
+-- 06/02  Revenue rank

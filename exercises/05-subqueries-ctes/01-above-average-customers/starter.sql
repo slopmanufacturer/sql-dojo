@@ -1,2 +1,1 @@
--- Above-average customers
--- Expected columns: name, total
+-- 05/01  Above-average customers

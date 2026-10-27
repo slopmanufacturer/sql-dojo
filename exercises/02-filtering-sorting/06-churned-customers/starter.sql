@@ -1,2 +1,1 @@
--- Churned customers
--- Expected columns: name, churned_at
+-- 02/06  Churned customers

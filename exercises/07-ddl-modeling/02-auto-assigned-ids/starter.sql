@@ -1,2 +1,2 @@
--- Create the table, insert three rows, then SELECT.
--- columns: id, name
+-- 07/02  Auto-assigned ids
+-- Create the table, insert the rows, then SELECT.

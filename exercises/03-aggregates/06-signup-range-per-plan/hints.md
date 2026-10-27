@@ -1,2 +1,3 @@
-- `LEFT JOIN` keeps plans that have no customers.
-- `MIN` and `MAX` ignore NULLs, so a plan with no customers ends up with NULL dates.
+- `LEFT JOIN` keeps the retired plan.
+- `MIN` and `MAX` ignore NULLs.
+- The retired plan has no customers, and it still has to appear.

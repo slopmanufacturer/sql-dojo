@@ -1,2 +1,2 @@
-- A window with `PARTITION BY` but no `ORDER BY` totals the whole partition.
-- This keeps one row per invoice while attaching the customer total.
+- `PARTITION BY customer_id` with no `ORDER BY` totals the whole partition.
+- One row per invoice stays intact.

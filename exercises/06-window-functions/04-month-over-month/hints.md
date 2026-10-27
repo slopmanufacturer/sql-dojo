@@ -1,2 +1,2 @@
-- `LAG(cents)` returns the previous row's value in the window order.
+- `LAG(cents) OVER (ORDER BY month)`.
 - The first row has no predecessor, so the result is NULL.

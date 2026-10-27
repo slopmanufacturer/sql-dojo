@@ -1,2 +1,3 @@
-- `INTEGER PRIMARY KEY` makes `id` auto-assign on insert.
-- Your file can hold several statements; the grader reads the last result set.
+- `INTEGER PRIMARY KEY` auto-assigns on insert.
+- Several statements per file are fine; the grader reads the last result set.
+- The last statement in the file is the one that gets graded.

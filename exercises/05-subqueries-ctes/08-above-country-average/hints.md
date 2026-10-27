@@ -1,0 +1,3 @@
+- Build a CTE of revenue per customer first.
+- Then compare each row to an average over the same country. The subquery can see the outer `country`, which is what makes it correlated.
+- Only paying customers count toward their country's average here.

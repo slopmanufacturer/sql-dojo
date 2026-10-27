@@ -1,2 +1,1 @@
--- Customers without invoices
--- Expected columns: name, country
+-- 04/03  Customers without invoices

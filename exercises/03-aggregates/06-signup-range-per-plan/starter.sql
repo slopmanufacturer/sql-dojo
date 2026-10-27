@@ -1,2 +1,1 @@
--- Signup range per plan
--- Expected columns: name, first_signup, last_signup
+-- 03/06  Signup range per plan

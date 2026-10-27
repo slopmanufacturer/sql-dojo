@@ -1,2 +1,1 @@
--- Paid revenue
--- Expected columns: total_cents, avg_cents
+-- 03/03  Paid revenue

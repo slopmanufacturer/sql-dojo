@@ -1,2 +1,2 @@
-- A `LEFT JOIN` keeps customers even when no invoice matches.
-- Unmatched rows have NULL on the right side; filter on `i.id IS NULL`.
+- `LEFT JOIN` keeps customers that have no match.
+- Unmatched rows have NULL on the right side.

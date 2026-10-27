@@ -6,6 +6,7 @@
     ./dojo.py verify <exercise>
     ./dojo.py hint <exercise> [--solution]
     ./dojo.py progress
+    ./dojo.py reset
     ./dojo.py shell
     ./dojo.py build [exercise]
 
@@ -231,9 +232,10 @@ def compare(expected, got, ordered):
 
 
 def load_progress():
-    if PROGRESS.exists():
+    try:
         return json.loads(PROGRESS.read_text())
-    return {}
+    except (OSError, ValueError):
+        return {}
 
 
 def save_progress(progress):
@@ -330,6 +332,14 @@ def cmd_progress():
     print(f"\nRun ./dojo.py run {remaining[0].short} to start.")
 
 
+def cmd_reset():
+    if PROGRESS.exists():
+        PROGRESS.unlink()
+        print("progress cleared")
+    else:
+        print("no progress to clear")
+
+
 def cmd_shell():
     STATE.mkdir(exist_ok=True)
     path = STATE / "shell.db"
@@ -356,7 +366,8 @@ def cmd_build(ref=None):
             writer.writerow(headers)
             for row in rows:
                 writer.writerow([display(v) for v in row])
-        print(f"{ex.short}  {len(rows):>3} rows  {len(headers)} cols  {ex.slug}")
+        print(f"{ex.short}  {len(rows):>3} {'row ' if len(rows) == 1 else 'rows'} "
+              f"{len(headers)} {'col ' if len(headers) == 1 else 'cols'}  {ex.slug}")
     print(f"\n{len(items)} {'exercise' if len(items) == 1 else 'exercises'} rebuilt")
 
 
@@ -388,6 +399,8 @@ def main(argv):
                 cmd_build(ex.ref)
         elif command == "progress":
             cmd_progress()
+        elif command == "reset":
+            cmd_reset()
         elif command == "shell":
             cmd_shell()
         else:

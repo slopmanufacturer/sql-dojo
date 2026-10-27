@@ -1,2 +1,2 @@
--- Create the table, insert two rows, then SELECT.
--- columns: id, customer_id, body, created_at
+-- 07/01  Create a notes table
+-- Create the table, insert the rows, then SELECT.

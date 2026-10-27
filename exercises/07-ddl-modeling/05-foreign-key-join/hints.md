@@ -1,2 +1,2 @@
-- `REFERENCES customers(id)` documents the relationship; SQLite does not need it to join.
+- `REFERENCES customers(id)` documents the relationship.
 - The final `SELECT` joins your new table to `customers`.

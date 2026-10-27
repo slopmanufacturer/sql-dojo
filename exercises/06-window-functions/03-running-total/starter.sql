@@ -1,2 +1,1 @@
--- Running total
--- Expected columns: month, cents, running_cents
+-- 06/03  Running total

@@ -1,2 +1,1 @@
--- Customers without events
--- Expected columns: name
+-- 05/03  Customers without events

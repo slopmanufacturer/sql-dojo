@@ -1,2 +1,1 @@
--- Event funnel
--- Expected columns: logged_in, viewed_dashboard, exported
+-- 08/04  Event funnel

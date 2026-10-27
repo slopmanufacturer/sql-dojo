@@ -1,2 +1,1 @@
--- Plans by price
--- Expected columns: name, monthly_price_cents, max_seats
+-- 02/07  Plans by price

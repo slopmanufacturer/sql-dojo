@@ -1,2 +1,1 @@
--- First event per customer
--- Expected columns: customer_id, first_event
+-- 06/08  First event per customer

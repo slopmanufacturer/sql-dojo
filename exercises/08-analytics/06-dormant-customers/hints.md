@@ -1,2 +1,3 @@
-- Get each customer's last event with `MAX(occurred_at)` in a CTE, then `LEFT JOIN` it.
-- `COALESCE(last_seen, signup_at)` falls back to the signup date for customers with no events.
+- `MAX(occurred_at)` per customer in a CTE, then `LEFT JOIN` it.
+- `COALESCE(last_seen, signup_at)` handles customers with no events.
+- A customer who signed up 20 days ago is not dormant, even with no events.

@@ -1,2 +1,2 @@
--- Create the table, insert three rows, then SELECT.
--- columns: id, subject, priority, is_open
+-- 07/03  Defaults
+-- Create the table, insert the rows, then SELECT.

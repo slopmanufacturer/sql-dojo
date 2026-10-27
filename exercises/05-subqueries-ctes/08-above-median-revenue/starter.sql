@@ -1,2 +1,0 @@
--- Above median revenue
--- Expected columns: name, cents

@@ -1,2 +1,3 @@
-- A window `SUM` with `ORDER BY` accumulates row by row.
-- Without `ORDER BY` inside `OVER`, the sum would be the grand total on every row.
+- `SUM(cents) OVER (ORDER BY month)`.
+- Without `ORDER BY` inside `OVER`, every row would show the grand total.
+- The window runs over the CTE's output, so aggregate the months first.

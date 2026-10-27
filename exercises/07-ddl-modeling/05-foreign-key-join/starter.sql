@@ -1,2 +1,2 @@
--- Create the table, insert three rows, then SELECT.
--- columns: label, name
+-- 07/05  Foreign key and join
+-- Create the table, insert the rows, then SELECT.

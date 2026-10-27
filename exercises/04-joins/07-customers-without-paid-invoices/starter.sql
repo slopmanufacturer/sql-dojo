@@ -1,2 +1,1 @@
--- Customers without paid invoices
--- Expected columns: name
+-- 04/07  Customers without paid invoices

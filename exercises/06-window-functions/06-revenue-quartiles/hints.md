@@ -1,2 +1,2 @@
-- `NTILE(4)` assigns bucket numbers in window order.
-- Sort descending so bucket 1 holds the biggest customers.
+- `NTILE(4)`.
+- Sort descending so bucket 1 holds the big spenders.

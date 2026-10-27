@@ -1,2 +1,1 @@
-- String literals use single quotes in SQL, not double quotes.
-- `WHERE` filters rows before sorting.
+- Single quotes for string literals.

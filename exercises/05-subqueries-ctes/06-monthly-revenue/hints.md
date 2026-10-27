@@ -1,2 +1,2 @@
-- `substr(issued_at, 1, 7)` gives you the month key.
-- `GROUP BY` can reference the alias `month` in SQLite.
+- `substr(issued_at, 1, 7)` gives you the month.
+- SQLite lets `GROUP BY` reference the alias.

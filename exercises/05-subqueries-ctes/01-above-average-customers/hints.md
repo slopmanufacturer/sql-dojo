@@ -1,2 +1,3 @@
-- Compute revenue per customer in a subquery, then compare against its average.
-- The average must be taken over the per-customer totals, not over invoices.
+- Revenue per customer is one subquery; its average is another.
+- The average is over per-customer totals, not over invoices.
+- Nest it: the average has to be taken over a grouped subquery, not over `invoices`.

@@ -1,2 +1,1 @@
--- Customers in Germany
--- Expected columns: name
+-- 02/01  Customers in Germany

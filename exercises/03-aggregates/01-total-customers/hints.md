@@ -1,2 +1,1 @@
-- `COUNT(*)` counts rows, including rows with NULLs.
-- An aggregate without `GROUP BY` returns exactly one row.
+- `COUNT(*)` counts rows.

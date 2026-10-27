@@ -1,2 +1,1 @@
--- Days between invoices
--- Expected columns: customer_id, issued_at, days_to_next
+-- 06/05  Days between invoices

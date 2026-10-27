@@ -1,2 +1,2 @@
-- `EXISTS` stops at the first match, which is cheaper than `COUNT(*) > 0`.
-- The correlation goes in the subquery's `WHERE`.
+- `EXISTS` stops at the first match, which beats `COUNT(*) > 0`.
+- The customer correlation goes in the subquery's `WHERE`.

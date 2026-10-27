@@ -1,2 +1,2 @@
-- Dates are ISO `YYYY-MM-DD`, so lexical order equals chronological order.
-- `LIMIT` comes last.
+- Dates are ISO, so text order is date order.
+- `LIMIT` goes last.

@@ -1,5 +1,3 @@
 # Distinct countries
 
-List each country once, sorted alphabetically.
-
-Expected: 12 rows, 1 column.
+Which countries do we sell to? List each one once as `country`, sorted alphabetically.

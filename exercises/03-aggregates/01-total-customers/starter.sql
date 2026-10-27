@@ -1,2 +1,1 @@
--- Total customers
--- Expected columns: customers
+-- 03/01  Total customers

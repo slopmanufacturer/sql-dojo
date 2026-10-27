@@ -1,2 +1,2 @@
-- `GROUP BY status` collapses rows with the same status.
-- Every non-aggregated column in `SELECT` must appear in `GROUP BY`.
+- `GROUP BY status` collapses the rows.
+- Every non-aggregate in `SELECT` has to appear in `GROUP BY`.

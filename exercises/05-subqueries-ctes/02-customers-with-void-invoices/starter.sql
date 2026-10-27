@@ -1,2 +1,1 @@
--- Customers with void invoices
--- Expected columns: name
+-- 05/02  Customers with void invoices

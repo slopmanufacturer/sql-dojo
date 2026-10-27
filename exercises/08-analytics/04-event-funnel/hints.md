@@ -1,2 +1,2 @@
 - Three scalar subqueries in one `SELECT` give you three columns.
-- `COUNT(DISTINCT customer_id)` counts customers, not events.
+- `COUNT(DISTINCT customer_id)`, not event counts.

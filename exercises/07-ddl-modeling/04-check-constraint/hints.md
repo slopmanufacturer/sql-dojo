@@ -1,2 +1,2 @@
-- `CHECK (...)` sits in the column definition, right after the type.
-- A nullable column is simply one without `NOT NULL`.
+- `CHECK (rating BETWEEN 1 AND 5)` sits in the column definition.
+- Nullable means you simply leave off `NOT NULL`.

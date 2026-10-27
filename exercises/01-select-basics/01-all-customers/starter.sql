@@ -1,2 +1,1 @@
--- All customers
--- Expected columns: every column in customers
+-- 01/01  All customers

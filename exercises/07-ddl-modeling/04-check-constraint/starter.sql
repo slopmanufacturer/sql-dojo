@@ -1,2 +1,2 @@
--- Create the table, insert two rows, then SELECT.
--- columns: id, customer_id, rating, comment
+-- 07/04  Check constraint
+-- Create the table, insert the rows, then SELECT.

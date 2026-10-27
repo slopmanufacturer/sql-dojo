@@ -1,2 +1,2 @@
--- Create the table, insert two rows, alter it, update, then SELECT.
--- columns: id, customer_id, score, comment
+-- 07/06  Alter a table
+-- Create the table, insert the rows, then SELECT.

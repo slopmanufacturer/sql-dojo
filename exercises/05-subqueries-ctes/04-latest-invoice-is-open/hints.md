@@ -1,2 +1,2 @@
-- The subquery is correlated: it references `c.id` from the outer query.
-- Pick the latest invoice by id as a tiebreaker, then filter on its status.
+- The subquery references `c.id`, which makes it correlated.
+- Order by `issued_at DESC, id DESC` and take one row.

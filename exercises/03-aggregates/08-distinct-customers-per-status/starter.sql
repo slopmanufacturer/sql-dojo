@@ -1,2 +1,1 @@
--- Distinct customers per status
--- Expected columns: status, customers
+-- 03/08  Distinct customers per status

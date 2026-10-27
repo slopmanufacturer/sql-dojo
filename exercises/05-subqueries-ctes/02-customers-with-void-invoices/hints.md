@@ -1,2 +1,1 @@
-- `IN (subquery)` keeps rows whose id appears in the subquery result.
-- The subquery must return exactly one column.
+- `IN (subquery)` keeps the customers whose id shows up in the result.

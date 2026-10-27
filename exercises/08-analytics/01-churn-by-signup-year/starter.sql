@@ -1,2 +1,1 @@
--- Churn by signup year
--- Expected columns: year, customers, churned, churn_pct
+-- 08/01  Churn by signup year

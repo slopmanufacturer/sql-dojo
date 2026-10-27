@@ -1,2 +1,1 @@
-- `SELECT *` is fine here; no need to list the columns.
-- `ORDER BY id` goes after `FROM`.
+- `SELECT *` is fine here.

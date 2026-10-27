@@ -1,2 +1,3 @@
 - `BETWEEN` includes both endpoints.
-- Two sort keys are separated by a comma: `ORDER BY issued_at, id`.
+- Two sort keys, comma-separated.
+- Dates are stored as text in `YYYY-MM-DD`, so string comparison works.
