@@ -1,0 +1,2 @@
+- `SUM(CASE WHEN ... THEN 1 ELSE 0 END)` counts a condition.
+- Multiply by `100.0` to force floating-point division.

@@ -1,0 +1,2 @@
+- `DESC` applies to one sort key at a time.
+- `ORDER BY price DESC, name` means name ascending.

@@ -1,0 +1,2 @@
+-- North American customers
+-- Expected columns: name, country

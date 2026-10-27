@@ -1,0 +1,2 @@
+-- Invoices in Q1 2024
+-- Expected columns: id, issued_at, amount_cents

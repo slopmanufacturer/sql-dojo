@@ -1,0 +1,2 @@
+-- Signup order per country
+-- Expected columns: country, name, signup_at, n

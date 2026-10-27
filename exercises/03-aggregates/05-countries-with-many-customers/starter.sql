@@ -1,0 +1,2 @@
+-- Countries with many customers
+-- Expected columns: country, customers

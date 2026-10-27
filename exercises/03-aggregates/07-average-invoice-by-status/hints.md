@@ -1,0 +1,2 @@
+- Convert cents to dollars inside `ROUND`, not after it.
+- `ROUND(x, 2)` returns a float; trailing zeros may be dropped in output.

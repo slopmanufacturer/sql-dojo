@@ -1,0 +1,2 @@
+-- Owners and admins
+-- Expected columns: owner_email, admin_email, customer_id

@@ -1,0 +1,41 @@
+country,name,signup_at,n
+AU,Vertex Manufacturing,2024-12-26,1
+AU,Orbit Logistics,2025-01-01,2
+BR,Umbra Games,2024-03-31,1
+BR,Harborline Shipping,2025-04-26,2
+CA,Foundry AI,2024-04-14,1
+CA,Elm Street Deli,2024-08-23,2
+CA,Junction Rail,2025-06-05,3
+DE,Lattice Health,2024-02-05,1
+DE,Willow Education,2024-02-28,2
+DE,Yardstick Consulting,2024-03-02,3
+DE,Glasswing Design,2024-09-01,4
+DE,Ironclad Security,2025-05-06,5
+ES,Cobalt Systems,2025-02-17,1
+ES,Anchor Insurance,2025-02-27,2
+FR,Northwind Labs,2024-03-23,1
+FR,Granite Works,2024-09-15,2
+FR,Sable Fashion,2025-02-01,3
+GB,Quarry Mining,2024-04-01,1
+GB,Zephyr Travel,2024-09-25,2
+GB,Acme Robotics,2025-05-02,3
+GB,Keystone Architecture,2025-06-01,4
+IN,Helix Bio,2024-11-01,1
+IN,Tidewater Marine,2025-03-26,2
+IN,Indigo Textiles,2025-05-16,3
+JP,Fjord Studio,2024-02-16,1
+JP,Pinewood Legal,2025-02-14,2
+NL,Redwood Energy,2025-02-18,1
+NL,Xenon Research,2025-02-19,2
+NL,Mosaic Foods,2025-05-20,3
+SE,Kestrel Media,2024-04-14,1
+SE,Copper Kettle,2024-08-30,2
+US,Juniper Retail,2024-02-01,1
+US,Delta Freight,2024-06-01,2
+US,Driftwood Hotels,2024-06-11,3
+US,Ember Analytics,2024-07-31,4
+US,Meridian Bank,2024-08-23,5
+US,Birch & Co,2024-11-08,6
+US,Blue Harbor,2025-01-30,7
+US,Nimbus Cloud,2025-03-19,8
+US,Lumen Optics,2025-05-01,9

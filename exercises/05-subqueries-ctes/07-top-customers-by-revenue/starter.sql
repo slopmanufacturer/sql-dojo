@@ -1,0 +1,2 @@
+-- Top customers by revenue
+-- Expected columns: name, cents, invoices

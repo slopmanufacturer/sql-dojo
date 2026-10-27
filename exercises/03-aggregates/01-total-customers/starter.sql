@@ -1,0 +1,2 @@
+-- Total customers
+-- Expected columns: customers

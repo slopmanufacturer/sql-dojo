@@ -1,0 +1,2 @@
+- `LAG(cents)` returns the previous row's value in the window order.
+- The first row has no predecessor, so the result is NULL.

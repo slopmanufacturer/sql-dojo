@@ -1,0 +1,2 @@
+- `NOT EXISTS` is the safest anti-join when NULLs could be involved.
+- The subquery only needs to return something; `SELECT 1` is enough.

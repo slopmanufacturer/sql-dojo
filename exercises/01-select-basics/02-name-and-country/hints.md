@@ -1,0 +1,2 @@
+- List the two columns after `SELECT`, separated by a comma.
+- The default sort is ascending, so `ORDER BY name` is enough.

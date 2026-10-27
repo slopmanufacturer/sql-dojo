@@ -1,0 +1,2 @@
+- Compare to NULL with `IS NULL`, never `= NULL`.
+- `IS NOT NULL` is the opposite check.

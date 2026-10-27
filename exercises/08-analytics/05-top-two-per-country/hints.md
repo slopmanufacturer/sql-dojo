@@ -1,0 +1,2 @@
+- Number rows inside each country, then filter on that number.
+- You cannot filter a window function in `WHERE`; wrap it in a CTE first.

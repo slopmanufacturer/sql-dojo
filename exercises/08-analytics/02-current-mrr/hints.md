@@ -1,0 +1,2 @@
+- Filter churned customers before grouping.
+- MRR is the sum of the plan price for each active customer.

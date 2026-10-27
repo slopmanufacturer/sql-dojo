@@ -1,0 +1,2 @@
+-- Above-average customers
+-- Expected columns: name, total

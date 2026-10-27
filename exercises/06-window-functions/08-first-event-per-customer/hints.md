@@ -1,0 +1,2 @@
+- `FIRST_VALUE` reads the first row of the window frame, not of the table.
+- `DISTINCT` collapses the repeated per-event rows afterwards.

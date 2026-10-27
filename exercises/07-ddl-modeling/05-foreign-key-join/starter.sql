@@ -1,0 +1,2 @@
+-- Create the table, insert three rows, then SELECT.
+-- columns: label, name

@@ -1,0 +1,2 @@
+-- Plan tiers
+-- Expected columns: name, monthly_price_cents, tier

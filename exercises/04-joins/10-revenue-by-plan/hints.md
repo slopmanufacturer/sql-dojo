@@ -1,0 +1,2 @@
+- You need two joins: plans to customers, then customers to invoices.
+- Group by plan, not by customer.

@@ -1,0 +1,2 @@
+-- Latest invoice is open
+-- Expected columns: name, issued_at, amount_cents

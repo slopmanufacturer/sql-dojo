@@ -1,0 +1,2 @@
+-- German paid revenue
+-- Expected columns: name, paid_cents

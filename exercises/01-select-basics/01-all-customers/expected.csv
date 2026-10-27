@@ -1,0 +1,41 @@
+id,name,country,signup_at,plan_id,churned_at
+1,Acme Robotics,GB,2025-05-02,2,NULL
+2,Northwind Labs,FR,2024-03-23,3,NULL
+3,Blue Harbor,US,2025-01-30,3,NULL
+4,Cobalt Systems,ES,2025-02-17,2,NULL
+5,Delta Freight,US,2024-06-01,1,NULL
+6,Ember Analytics,US,2024-07-31,1,NULL
+7,Fjord Studio,JP,2024-02-16,1,NULL
+8,Granite Works,FR,2024-09-15,1,NULL
+9,Helix Bio,IN,2024-11-01,3,2025-01-11
+10,Ironclad Security,DE,2025-05-06,1,NULL
+11,Juniper Retail,US,2024-02-01,2,2025-03-07
+12,Kestrel Media,SE,2024-04-14,3,2024-07-23
+13,Lattice Health,DE,2024-02-05,3,NULL
+14,Meridian Bank,US,2024-08-23,1,2025-03-21
+15,Nimbus Cloud,US,2025-03-19,3,NULL
+16,Orbit Logistics,AU,2025-01-01,3,2025-03-23
+17,Pinewood Legal,JP,2025-02-14,1,NULL
+18,Quarry Mining,GB,2024-04-01,3,NULL
+19,Redwood Energy,NL,2025-02-18,3,2025-04-29
+20,Sable Fashion,FR,2025-02-01,4,2025-04-08
+21,Tidewater Marine,IN,2025-03-26,4,NULL
+22,Umbra Games,BR,2024-03-31,2,NULL
+23,Vertex Manufacturing,AU,2024-12-26,2,NULL
+24,Willow Education,DE,2024-02-28,1,NULL
+25,Xenon Research,NL,2025-02-19,2,2025-04-28
+26,Yardstick Consulting,DE,2024-03-02,2,NULL
+27,Zephyr Travel,GB,2024-09-25,1,NULL
+28,Anchor Insurance,ES,2025-02-27,4,NULL
+29,Birch & Co,US,2024-11-08,1,NULL
+30,Copper Kettle,SE,2024-08-30,2,NULL
+31,Driftwood Hotels,US,2024-06-11,2,NULL
+32,Elm Street Deli,CA,2024-08-23,4,2025-04-15
+33,Foundry AI,CA,2024-04-14,2,NULL
+34,Glasswing Design,DE,2024-09-01,1,NULL
+35,Harborline Shipping,BR,2025-04-26,3,NULL
+36,Indigo Textiles,IN,2025-05-16,2,NULL
+37,Junction Rail,CA,2025-06-05,1,NULL
+38,Keystone Architecture,GB,2025-06-01,1,NULL
+39,Lumen Optics,US,2025-05-01,3,NULL
+40,Mosaic Foods,NL,2025-05-20,3,NULL

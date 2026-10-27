@@ -1,0 +1,2 @@
+- Compute revenue per customer in a subquery, then compare against its average.
+- The average must be taken over the per-customer totals, not over invoices.

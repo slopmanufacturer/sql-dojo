@@ -1,0 +1,2 @@
+- Put `status = 'paid'` in the `ON` clause, not in `WHERE`.
+- In `WHERE`, `i.status = 'paid'` would discard the NULL rows you need.

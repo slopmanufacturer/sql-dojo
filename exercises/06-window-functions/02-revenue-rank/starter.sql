@@ -1,0 +1,2 @@
+-- Revenue rank
+-- Expected columns: name, cents, rank

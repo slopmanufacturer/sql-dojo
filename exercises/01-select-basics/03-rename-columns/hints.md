@@ -1,0 +1,2 @@
+- Column aliases use `AS`, and they can be used in `ORDER BY`.
+- Quote aliases only if they need to preserve case or contain spaces.

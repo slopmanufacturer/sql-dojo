@@ -1,0 +1,2 @@
+- SQLite has no `MEDIAN`; pick the middle row by sorting and using `OFFSET`.
+- Integer division (`COUNT(*) / 2`) gives the upper-middle row for even counts.

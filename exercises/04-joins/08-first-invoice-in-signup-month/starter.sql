@@ -1,0 +1,2 @@
+-- First invoice in signup month
+-- Expected columns: name, signup_at, first_invoice

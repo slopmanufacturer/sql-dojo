@@ -1,0 +1,2 @@
+-- Current MRR
+-- Expected columns: name, active_customers, mrr_cents

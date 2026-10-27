@@ -1,0 +1,2 @@
+- `RANK()` leaves gaps after ties; `DENSE_RANK()` does not.
+- Window functions run after `WHERE`/`GROUP BY`, so wrap the aggregate in a CTE.

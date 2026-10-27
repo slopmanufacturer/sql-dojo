@@ -1,0 +1,2 @@
+- Get each customer's last event with `MAX(occurred_at)` in a CTE, then `LEFT JOIN` it.
+- `COALESCE(last_seen, signup_at)` falls back to the signup date for customers with no events.

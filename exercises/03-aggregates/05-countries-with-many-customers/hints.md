@@ -1,0 +1,2 @@
+- `WHERE` filters rows; `HAVING` filters groups.
+- `HAVING COUNT(*) > 3` runs after grouping.

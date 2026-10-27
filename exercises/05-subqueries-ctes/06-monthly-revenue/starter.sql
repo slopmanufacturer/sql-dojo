@@ -1,0 +1,2 @@
+-- Monthly revenue
+-- Expected columns: month, cents

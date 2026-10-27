@@ -1,0 +1,2 @@
+- A window `SUM` with `ORDER BY` accumulates row by row.
+- Without `ORDER BY` inside `OVER`, the sum would be the grand total on every row.

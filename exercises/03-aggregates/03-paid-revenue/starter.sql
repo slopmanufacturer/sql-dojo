@@ -1,0 +1,2 @@
+-- Paid revenue
+-- Expected columns: total_cents, avg_cents

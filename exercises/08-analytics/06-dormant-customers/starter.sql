@@ -1,0 +1,2 @@
+-- Dormant customers
+-- Expected columns: name, last_seen, days_since

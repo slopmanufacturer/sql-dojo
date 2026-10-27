@@ -1,0 +1,2 @@
+- `%` matches any sequence of characters; `_` matches exactly one.
+- `LIKE` is case-insensitive for ASCII in SQLite by default.

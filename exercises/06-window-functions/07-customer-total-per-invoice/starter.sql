@@ -1,0 +1,2 @@
+-- Customer total per invoice
+-- Expected columns: id, customer_id, amount_cents, customer_total

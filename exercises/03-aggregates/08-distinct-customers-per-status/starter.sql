@@ -1,0 +1,2 @@
+-- Distinct customers per status
+-- Expected columns: status, customers

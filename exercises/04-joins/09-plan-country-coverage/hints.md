@@ -1,0 +1,2 @@
+- `CROSS JOIN` produces every plan/country pair; the `LEFT JOIN` then attaches customers.
+- Count `cu.id`, not `*`, so empty pairs report zero.

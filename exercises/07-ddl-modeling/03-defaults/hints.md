@@ -1,0 +1,2 @@
+- Defaults only apply when the column is omitted from the insert.
+- `DEFAULT` is part of the column definition, after the type.

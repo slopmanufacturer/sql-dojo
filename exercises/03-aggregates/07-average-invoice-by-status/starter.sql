@@ -1,0 +1,2 @@
+-- Average invoice by status
+-- Expected columns: status, avg_dollars

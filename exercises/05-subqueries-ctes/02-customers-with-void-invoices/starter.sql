@@ -1,0 +1,2 @@
+-- Customers with void invoices
+-- Expected columns: name

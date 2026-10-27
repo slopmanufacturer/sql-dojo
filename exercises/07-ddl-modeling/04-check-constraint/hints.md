@@ -1,0 +1,2 @@
+- `CHECK (...)` sits in the column definition, right after the type.
+- A nullable column is simply one without `NOT NULL`.

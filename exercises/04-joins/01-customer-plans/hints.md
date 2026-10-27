@@ -1,0 +1,2 @@
+- Join `customers` to `plans` on `customers.plan_id = plans.id`.
+- Both tables have a `name` column, so alias them (`c.name`, `p.name`).

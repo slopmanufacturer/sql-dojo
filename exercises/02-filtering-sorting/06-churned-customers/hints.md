@@ -1,0 +1,2 @@
+- `IS NOT NULL` keeps only rows with a churn date.
+- Ascending order puts the earliest churn first.

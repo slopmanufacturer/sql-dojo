@@ -1,0 +1,2 @@
+-- Event funnel
+-- Expected columns: logged_in, viewed_dashboard, exported

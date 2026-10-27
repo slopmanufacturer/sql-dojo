@@ -1,0 +1,2 @@
+-- Customers who exported
+-- Expected columns: name

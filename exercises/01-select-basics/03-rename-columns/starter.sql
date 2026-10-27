@@ -1,0 +1,2 @@
+-- Rename columns
+-- Expected columns: customer, market

@@ -1,0 +1,2 @@
+- `COUNT(column)` skips NULLs, which is exactly what you want for `churned_at`.
+- Compute `active` as the difference.

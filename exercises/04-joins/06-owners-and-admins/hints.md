@@ -1,0 +1,2 @@
+- This is a self-join: `users` appears twice with different aliases.
+- Join on `customer_id` and put the role checks in `WHERE`/`ON`.

@@ -1,0 +1,2 @@
+-- Invoices by status
+-- Expected columns: status, invoices

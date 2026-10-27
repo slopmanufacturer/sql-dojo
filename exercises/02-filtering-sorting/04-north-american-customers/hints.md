@@ -1,0 +1,2 @@
+- `IN (...)` is shorter than two `OR` conditions.
+- Sort by country first so each country's customers stay together.

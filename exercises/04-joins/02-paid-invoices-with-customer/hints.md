@@ -1,0 +1,2 @@
+- Filter on `i.status` and `i.issued_at` after the join.
+- Qualify ambiguous columns with the table alias.

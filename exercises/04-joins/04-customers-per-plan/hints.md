@@ -1,0 +1,2 @@
+- `COUNT(c.id)` returns 0 for plans with no match; `COUNT(*)` would return 1.
+- That difference is the whole point of `LEFT JOIN` plus `COUNT(column)`.

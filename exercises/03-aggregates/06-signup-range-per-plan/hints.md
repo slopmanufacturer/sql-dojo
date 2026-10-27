@@ -1,0 +1,2 @@
+- `LEFT JOIN` keeps plans that have no customers.
+- `MIN` and `MAX` ignore NULLs, so a plan with no customers ends up with NULL dates.

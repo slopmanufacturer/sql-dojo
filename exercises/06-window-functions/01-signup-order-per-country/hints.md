@@ -1,0 +1,2 @@
+- `PARTITION BY country` restarts numbering for each country.
+- `ROW_NUMBER` never repeats a number, even on ties.

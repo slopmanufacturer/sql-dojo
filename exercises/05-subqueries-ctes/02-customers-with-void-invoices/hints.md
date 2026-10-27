@@ -1,0 +1,2 @@
+- `IN (subquery)` keeps rows whose id appears in the subquery result.
+- The subquery must return exactly one column.

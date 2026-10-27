@@ -1,0 +1,2 @@
+- Filter on both the customer country and the invoice status.
+- Group by `c.id` to keep same-named customers apart.

@@ -1,0 +1,2 @@
+-- Active vs churned
+-- Expected columns: total, churned, active

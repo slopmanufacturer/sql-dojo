@@ -1,0 +1,2 @@
+-- Top two per country
+-- Expected columns: country, name, cents

@@ -1,0 +1,2 @@
+-- Distinct countries
+-- Expected columns: country

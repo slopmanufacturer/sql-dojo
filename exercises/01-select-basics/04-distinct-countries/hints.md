@@ -1,0 +1,2 @@
+- `DISTINCT` applies to the whole selected row, not a single column.
+- Without `ORDER BY` the order is unspecified; add it.

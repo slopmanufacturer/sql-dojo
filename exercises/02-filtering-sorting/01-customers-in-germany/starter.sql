@@ -1,0 +1,2 @@
+-- Customers in Germany
+-- Expected columns: name

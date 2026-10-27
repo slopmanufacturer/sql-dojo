@@ -1,0 +1,2 @@
+- `INTEGER PRIMARY KEY` makes `id` auto-assign on insert.
+- Your file can hold several statements; the grader reads the last result set.

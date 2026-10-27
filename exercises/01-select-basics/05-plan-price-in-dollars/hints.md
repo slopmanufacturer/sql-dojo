@@ -1,0 +1,2 @@
+- Divide by `100.0`, not `100`; integer division would truncate cents.
+- `ORDER BY monthly_price DESC` sorts on the alias.

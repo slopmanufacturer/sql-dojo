@@ -1,0 +1,2 @@
+-- Customer plans
+-- Expected columns: name, plan

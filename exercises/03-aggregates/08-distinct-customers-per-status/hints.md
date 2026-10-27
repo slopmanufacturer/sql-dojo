@@ -1,0 +1,2 @@
+- `COUNT(DISTINCT x)` counts unique values, not rows.
+- Without `DISTINCT`, a customer with five paid invoices counts five times.

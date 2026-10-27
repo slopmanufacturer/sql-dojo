@@ -1,0 +1,2 @@
+-- Plan price in dollars
+-- Expected columns: name, monthly_price

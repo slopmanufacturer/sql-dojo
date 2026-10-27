@@ -1,0 +1,2 @@
+- Compare the first seven characters (`YYYY-MM`) of both dates.
+- `HAVING` can filter on an aggregate such as `MIN(i.issued_at)`.

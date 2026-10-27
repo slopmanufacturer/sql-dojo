@@ -1,0 +1,2 @@
+- `EXISTS` stops at the first match, which is cheaper than `COUNT(*) > 0`.
+- The correlation goes in the subquery's `WHERE`.

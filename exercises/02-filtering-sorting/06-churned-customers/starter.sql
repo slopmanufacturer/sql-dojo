@@ -1,0 +1,2 @@
+-- Churned customers
+-- Expected columns: name, churned_at

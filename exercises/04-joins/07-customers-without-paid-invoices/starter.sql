@@ -1,0 +1,2 @@
+-- Customers without paid invoices
+-- Expected columns: name

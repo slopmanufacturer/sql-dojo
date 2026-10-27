@@ -1,0 +1,2 @@
+- Two CTEs, one for money and one for counts.
+- Join the CTEs on `customer_id`, then join `customers` for the name.

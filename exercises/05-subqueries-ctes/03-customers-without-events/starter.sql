@@ -1,0 +1,2 @@
+-- Customers without events
+-- Expected columns: name

@@ -1,0 +1,2 @@
+-- Active customers
+-- Expected columns: name

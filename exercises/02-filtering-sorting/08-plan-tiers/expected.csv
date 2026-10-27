@@ -1,0 +1,6 @@
+name,monthly_price_cents,tier
+Starter,1900,cheap
+Team,4900,cheap
+Legacy,9900,mid
+Business,14900,mid
+Enterprise,49900,mid

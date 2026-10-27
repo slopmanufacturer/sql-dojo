@@ -1,0 +1,2 @@
+- `ALTER TABLE ... ADD COLUMN` appends a column; existing rows get NULL.
+- `UPDATE` changes rows in place; the `WHERE` clause decides which ones.

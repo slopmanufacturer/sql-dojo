@@ -1,0 +1,6 @@
+name,monthly_price_cents,max_seats
+Enterprise,49900,250
+Business,14900,50
+Legacy,9900,25
+Team,4900,10
+Starter,1900,3

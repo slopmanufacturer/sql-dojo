@@ -1,0 +1,2 @@
+- Filter with `WHERE` before the aggregate runs.
+- `AVG` already returns a float; no cast needed.

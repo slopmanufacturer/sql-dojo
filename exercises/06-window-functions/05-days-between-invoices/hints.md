@@ -1,0 +1,2 @@
+- `LEAD` looks forward inside each customer's partition.
+- `julianday(a) - julianday(b)` returns a difference in days.

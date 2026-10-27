@@ -1,0 +1,2 @@
+-- Name and country
+-- Expected columns: name, country

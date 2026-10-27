@@ -1,0 +1,2 @@
+-- Paid invoices with customer
+-- Expected columns: id, name, amount_cents

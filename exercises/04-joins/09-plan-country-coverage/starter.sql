@@ -1,0 +1,2 @@
+-- Plan by country coverage
+-- Expected columns: plan, country, customers
