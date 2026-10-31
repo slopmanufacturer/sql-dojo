@@ -221,8 +221,12 @@ def compare(expected, got, ordered):
     if exp == got:
         return True, ""
 
-    if not ordered or Counter(exp) != Counter(got):
+    if Counter(exp) != Counter(got):
         return False, row_diff(exp, got)
+
+    # Same rows, different order. That only matters when the reference sorts.
+    if not ordered:
+        return True, ""
 
     for i, (a, b) in enumerate(zip(exp, got), start=1):
         if a != b:
